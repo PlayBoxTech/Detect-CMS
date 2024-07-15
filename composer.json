@@ -3,6 +3,7 @@
     "description": "PHP Library for detecting CMS.",
     "keywords": ["detect", "cms"],
     "type": "library",
+    "license" : "MIT",
     "autoload": {
         "psr-0": {
             "DetectCMS": "src/"
